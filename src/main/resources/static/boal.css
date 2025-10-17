@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+
+}
+#boal{
+    background-color: aliceblue;
+    width: 30px;
+    height: 30px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+
+
+}
+#test{
+    color: aliceblue;
+}
+#stick{
+    background-color: aliceblue;
+    width: 20px;
+    height: 110px;
+    border-radius: 10%;
+    left: 1%;
+    top: 50%;
+    position: absolute;
+
+}
+#stick1{
+    background-color: aliceblue;
+    width: 20px;
+    height: 110px;
+    border-radius: 10%;
+    left: 98%;
+    top: 50%;
+    position: absolute;
+
+}

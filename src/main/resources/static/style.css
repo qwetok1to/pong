@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+#logo{
+    color: aliceblue;
+    position: absolute;
+    left: 53%;
+    font-family:Bahnschrift;
+}
+
+#boal{
+    background-color: aliceblue;
+    width: 30px;
+    height: 30px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    left: 60%;
+    top: 40%;
+    position: absolute;
+}
+#create{
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+    font-family:Bahnschrift;
+    left: 48%;
+    top: 58%;
+
+
+}
+#joint{
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+    background-size: 50px;
+    position: absolute;
+    font-family:Bahnschrift;
+    top: 50%;
+    left: 50%;
+}
+

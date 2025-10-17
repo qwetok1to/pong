@@ -1,0 +1,6 @@
+function muve(){
+
+}
+function stick() {
+
+}
